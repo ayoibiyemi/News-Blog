@@ -1,0 +1,28 @@
+body{
+ 
+}
+
+
+.contents{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-around;
+    
+}
+
+.heading{
+    text-align: center;
+    color: brown;
+}
+
+.col{
+    padding: 20px;
+    width: fit-content;
+    
+    
+}
+
+/* card-text{
+    text-overflow: ellipsis;
+} */
